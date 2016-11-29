@@ -1,0 +1,7 @@
+var $_EMAILBOX_EMAIL = _emailbox("Email");
+var $_SUBMIT_NEXT = _submit("Next");
+var $_PASSWORD_PASSWD = _password("Passwd");
+//var $_CHECKBOX_PERSISTENTCOOKIE = _checkbox("PersistentCookie");
+var $_SUBMIT_SIGN_IN = _submit("Sign in");
+//var $_SPAN_GB8A_GBII = _span("gb_8a gbii");
+var $_LINK_SIGN_OUT = _link("Sign out");
