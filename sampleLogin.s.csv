@@ -1,0 +1,11 @@
+"TestCase","Key Word","Argument 1","Argument 2"
+,"loadSahi","""mailLgn.sah"""
+,"loadSahi","""mailFnLib.sah"""
+,"data=","_readCSVFile(""loginCredentials.csv"")"
+
+"LoggingInAndLoggingOut","[Documentation]","LoginAndLogout"
+,"EnterUsername","[data:EnterUsername]"
+,"clickSubmit"
+,"EnterPassword","[data:EnterPassword]"
+,"ClickSubmit"
+,"clickSignout"

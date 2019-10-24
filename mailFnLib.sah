@@ -1,0 +1,24 @@
+function EnterUsername($email)
+{
+	_setValue($_EMAILBOX_EMAIL, $email);
+}
+
+function clickSubmit(){
+	_click($_SUBMIT_NEXT);
+}
+
+function EnterPassword($passwd){
+	_setValue($_PASSWORD_PASSWD, $passwd);
+}
+
+function ClickSubmit(){
+	_click($_SUBMIT_SIGN_IN);
+}
+
+//function clickName(){
+	//_click($_SPAN_GB8A_GBII);
+//}
+
+function clickSignout(){
+	_click($_LINK_SIGN_OUT);
+}
